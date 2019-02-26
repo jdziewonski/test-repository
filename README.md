@@ -1,2 +1,7 @@
 # test-repository
-description
+my test repository description
+```json
+{
+  "code block" : "value"
+}
+```
